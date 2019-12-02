@@ -1,0 +1,1 @@
+This is Schmoopsie's first git project!
